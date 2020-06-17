@@ -1,2 +1,2 @@
 # simple_python_projects
-A repository for simple python projects
+A repository for my simple python projects
